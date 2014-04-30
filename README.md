@@ -7,6 +7,9 @@ First:
 ------
 
  * Open http://docs.python.org/2/library/profile.html for reference.
+ * Clone this repository by running:
+   * git clone https://github.com/ggould256/intro_to_python_profiling.git
+   * cd intro_to_python_profiling
 
 Second:
 -------
