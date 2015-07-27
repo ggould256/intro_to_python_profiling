@@ -53,7 +53,7 @@ Fifth:
 ------
 
  * How do we fix nth_fib?  There's a lot of ways, but the simplest is to just
-   keep track of it's output and not repeat ourselves.
+   keep track of its output and not repeat ourselves.
  * Read example-cached.py
  * Run 'time ./example-cached.py small.txt'.  Much better!
  * Run 'python -m cProfile example-cached.py small.txt'
